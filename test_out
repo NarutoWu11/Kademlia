@@ -1,0 +1,5 @@
+# kademlia
+./kademlia_test.go:125: cannot use *instanceList[0] (type Kademlia) as type *Kademlia in argument to VanishData
+./vanish_test.go:47: cannot use *instanceList[0] (type Kademlia) as type *Kademlia in argument to VanishData
+./vanish_test.go:53: cannot use *instanceList[0] (type Kademlia) as type *Kademlia in argument to UnvanishData
+FAIL	kademlia [build failed]
